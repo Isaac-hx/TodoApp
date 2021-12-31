@@ -1,2 +1,3 @@
 # TodoApp
-Created with CodeSandbox
+
+I made this with love
